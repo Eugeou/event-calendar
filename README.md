@@ -1,8 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) Event calendar project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Some UI Demo: 
+
+![image](https://github.com/user-attachments/assets/8a7ce846-2074-4027-bdb9-a596702b8fa4)
+
+![image](https://github.com/user-attachments/assets/7ef924c8-d1ae-4924-b364-9e71cc029eea)
+
+![image](https://github.com/user-attachments/assets/649f51b7-e393-429a-9622-c2f803324a8b)
+
 
 ## Getting Started
 
-First, run the development server:
+First, install the necessary pakage:
+
+```bash
+npm install
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
